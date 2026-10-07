@@ -19,7 +19,7 @@ MFRC522 rfid(SS_PIN, RST_PIN);
 
 // --- Servo motor for door lock ---
 Servo doorLock;
-const int servoPin = 13;  // Connect signal wire of servo here
+const int servoPin = 13;  // Connect signal wire of servo  here
 
 // --- Keypad setup ---
 const byte ROWS = 4;
