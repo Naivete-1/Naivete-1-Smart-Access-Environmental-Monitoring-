@@ -1,6 +1,6 @@
 # Smart Access & Environmental Monitoring System
 
-**Arduino Mega · Embedded Systems · 2025**
+**Arduino Mega · Embedded Systems · 2024**
 
 ## Project Overview
 
